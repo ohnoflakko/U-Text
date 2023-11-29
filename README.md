@@ -24,5 +24,3 @@ Tambien puede crear su propio ejecutable con la librería #pyinstaller
 
 ```
 
-## Aportes
-Es totalmente libre de realizar las modificaciones que quiera y si desea aportarla, o dejar un comentario que ayude a mejorar el programa, ya sea aqui en github o dentro de la comunidad de [Discord](https://discord.gg/gvs3reJqJE), todo tipo de critica es bienvenida con el fin de mejorar el programa y superar sus espectativas!.
